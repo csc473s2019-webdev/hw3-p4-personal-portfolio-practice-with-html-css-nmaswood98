@@ -4,5 +4,8 @@
 }
 
 nav{
+    background-color: blue;
     position: fixed;
+    top:0px;
+    
 }
